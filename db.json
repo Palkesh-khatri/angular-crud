@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Zephania",
+      "lastName": "Pennington",
+      "email": "lyca@mailinator.com",
+      "dob": "1971-02-25T18:30:00.000Z",
+      "gender": "female",
+      "company": "Carver and Gonzales Trading",
+      "education": "Diploma",
+      "experience": "5",
+      "package": "12",
+      "id": 1
+    },
+    {
+      "firstName": "Jana",
+      "lastName": "Justice",
+      "email": "jana@mailinator.com",
+      "dob": "2005-11-05T18:30:00.000Z",
+      "gender": "female",
+      "company": "Richard Allen Plc",
+      "education": "matric",
+      "experience": "2",
+      "package": "9",
+      "id": 2
+    }
+  ]
+}
